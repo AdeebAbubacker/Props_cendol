@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Props_cendol/static/css/main.4cf034de.css",
+    "main.js": "/Props_cendol/static/js/main.3f871642.js",
+    "static/js/787.142da1d4.chunk.js": "/Props_cendol/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Props_cendol/index.html",
+    "main.4cf034de.css.map": "/Props_cendol/static/css/main.4cf034de.css.map",
+    "main.3f871642.js.map": "/Props_cendol/static/js/main.3f871642.js.map",
+    "787.142da1d4.chunk.js.map": "/Props_cendol/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf034de.css",
+    "static/js/main.3f871642.js"
+  ]
+}
